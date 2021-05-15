@@ -15,7 +15,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/AvedissianDiego)](https://twitter.com/AvedissianDiego)
 <a href="https://www.instagram.com/diegoavedissian/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat&logo=Instagram"></a>
 <h3>Sobre mim:</h3>
-- Desenvolvedor FullStack formado pela Recode Pro
+- Desenvolvedor FullStack formado pela Recode Pro </br>
 - Desenvolvedor de Sistemas pela Etec
 - Estudando continuamente a linguagem Python com foco em manipulação de dados
 <h3>Pessoal:</h3>
