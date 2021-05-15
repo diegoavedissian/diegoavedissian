@@ -15,6 +15,12 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/AvedissianDiego)](https://twitter.com/AvedissianDiego)
 <a href="https://www.instagram.com/diegoavedissian/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat&logo=Instagram"></a>
 
+- Desenvolvedor FullStack formado pela Recode Pro
+- Desenvolvedor de Sistemas pela Etec
+- Estudando continuamente a linguagem Python com foco em manipulação de dados
+
+- Amante de musica, faixa preta de jiu jitsu, apaixonado por filmes e livros.
+
 ![Diego's github stats](https://github-readme-stats.vercel.app/api?username=diegoavedissian&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoavedissian&layout=compact&theme=radical)](https://github.com/diegoavedissian/github-readme-stats)
