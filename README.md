@@ -2,11 +2,6 @@
 
 <h3 align="center">FullStack Dev and Data Science enthusiastic</h3>
 
-<p align="center">
-  <img alt="ProfilViews" src="https://views.whatilearened.today/views/github/diegoavedissian/diegoavedissian.svg" />
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=diegoavedissian.diegoavedissian" />
-</p>
-
 ##### 🤝🏻 Connect with Me 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/diegoavedissian)](https://github.com/diegoavedissian)
@@ -16,12 +11,12 @@
 <a href="https://www.instagram.com/diegoavedissian/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat&logo=Instagram"></a>
 <h3>Sobre mim:</h3>
 - Desenvolvedor FullStack formado pela Recode Pro </br>
-- Desenvolvedor de Sistemas pela Etec
-- Estudando continuamente a linguagem Python com foco em manipulação de dados
+- Desenvolvedor de Sistemas pela Etec </br>
+- Estudando continuamente a linguagem Python com foco em manipulação de dados </br>
 <h3>Pessoal:</h3>
-- Amante de musica
-- Faixa preta de jiu jitsu 
-- Apaixonado por filmes e livros.
+- Amante de musica </br>
+- Faixa preta de jiu jitsu </br> 
+- Apaixonado por filmes e livros </br>
 
 ![Diego's github stats](https://github-readme-stats.vercel.app/api?username=diegoavedissian&show_icons=true&theme=radical)
 
@@ -47,3 +42,8 @@
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<p align="center">
+  <img alt="ProfilViews" src="https://views.whatilearened.today/views/github/diegoavedissian/diegoavedissian.svg" />
+  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=diegoavedissian.diegoavedissian" />
+</p>
