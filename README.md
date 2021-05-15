@@ -15,6 +15,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/AvedissianDiego)](https://twitter.com/AvedissianDiego)
 <a href="https://www.instagram.com/diegoavedissian/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat&logo=Instagram"></a>
 
+![Diego's github stats](https://github-readme-stats.vercel.app/api?username=diegoavedissian&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoavedissian&layout=compact&theme=radical)](https://github.com/diegoavedissian/github-readme-stats)
 
 <h3>🛠 &nbsp;Tech Stack</h3>
 
@@ -36,7 +39,3 @@
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-![Diego's github stats](https://github-readme-stats.vercel.app/api?username=diegoavedissian&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoavedissian&layout=compact&theme=radical)](https://github.com/diegoavedissian/github-readme-stats)
