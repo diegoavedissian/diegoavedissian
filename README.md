@@ -9,8 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoavedissian/)](https://www.linkedin.com/in/diegoavedissian/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/AvedissianDiego)](https://twitter.com/AvedissianDiego)
 <a href="https://www.instagram.com/diegoavedissian/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat&logo=Instagram"></a>
-<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+davedissian@hotmail.com
 <h3>Sobre mim:</h3>
 - Desenvolvedor FullStack formado pela Recode Pro </br>
 - Desenvolvedor de Sistemas pela Etec </br>
@@ -18,7 +17,7 @@
 <h3>Pessoal:</h3>
 - Amante de musica </br>
 - Faixa preta de jiu jitsu </br> 
-- Apaixonado por filmes e livros </br>
+- Apaixonado por filmes e livros </br></br>
 
 ![Diego's github stats](https://github-readme-stats.vercel.app/api?username=diegoavedissian&show_icons=true&theme=radical)
 
