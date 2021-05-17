@@ -8,8 +8,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoavedissian@gmail.com)](mailto:diegoavedissian@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoavedissian/)](https://www.linkedin.com/in/diegoavedissian/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/AvedissianDiego)](https://twitter.com/AvedissianDiego)
-<a href="https://www.instagram.com/diegoavedissian/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat&logo=Instagram"></a>
-davedissian@hotmail.com
+<a href="https://www.instagram.com/diegoavedissian/"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white"></a>
+<a href="mailto:davedissian@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white"></a>
 <h3>Sobre mim:</h3>
 - Desenvolvedor FullStack formado pela Recode Pro </br>
 - Desenvolvedor de Sistemas pela Etec </br>
