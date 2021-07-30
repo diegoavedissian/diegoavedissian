@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoavedissian/)](https://www.linkedin.com/in/diegoavedissian/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/AvedissianDiego)](https://twitter.com/AvedissianDiego)
 <!--<a href="https://www.instagram.com/diegoavedissian/"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white"></a>-->
-<a href="mailto:davedissian@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white"></a>
+<a href="mailto:davedissian@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white"></a></br>
 <h3>Sobre mim:</h3>
 - Estudante de Ciência de dados (Univesp) </br>
 - Desenvolvedor FullStack (Recode Pro) </br>
