@@ -8,16 +8,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoavedissian@gmail.com)](mailto:diegoavedissian@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoavedissian/)](https://www.linkedin.com/in/diegoavedissian/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/AvedissianDiego)](https://twitter.com/AvedissianDiego)
-<a href="https://www.instagram.com/diegoavedissian/"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white"></a>
+<!--<a href="https://www.instagram.com/diegoavedissian/"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white"></a>-->
 <a href="mailto:davedissian@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white"></a>
 <h3>Sobre mim:</h3>
-- Desenvolvedor FullStack formado pela Recode Pro </br>
-- Desenvolvedor de Sistemas pela Etec </br>
-- Estudando continuamente a linguagem Python com foco em manipulação de dados </br>
-<h3>Pessoal:</h3>
-- Amante de musica </br>
-- Faixa preta de jiu jitsu </br> 
-- Apaixonado por filmes e livros </br></br>
+- Estudante de Ciência de dados (Univesp) </br>
+- Desenvolvedor FullStack (Recode Pro) </br>
+- Técnico em Desenvolvimento de Sistemas (Etec) </br>
 
 ![Diego's github stats](https://github-readme-stats.vercel.app/api?username=diegoavedissian&show_icons=true&theme=radical)
 
