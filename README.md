@@ -1,6 +1,6 @@
 <h1 align="center">Hello, welcome to my code world! 🤘</h1>
 
-<h3 align="center">FullStack Dev and Data Science enthusiastic</h3>
+<h3 align="center">FullStack Developer and Data Science Student</h3>
 
 ##### 🤝🏻 Connect with Me 
 
